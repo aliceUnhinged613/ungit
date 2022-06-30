@@ -55,7 +55,7 @@
     "node-cache": "~5.1.2",
     "nprogress": "~0.2.0",
     "open": "~7.1.0",
-    "passport": "~0.4.1",
+    "passport": "~0.6.0",
     "passport-local": "~1.0.0",
     "raven-js": "~3.27.2",
     "rc": "~1.2.8",
