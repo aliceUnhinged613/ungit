@@ -83,7 +83,7 @@
     "exorcist": "~1.0.1",
     "expect.js": "~0.3.1",
     "less": "~3.12.2",
-    "mocha": "~8.1.0",
+    "mocha": "~8.4.0",
     "mocha-parallel-tests": "~2.3.0",
     "nodemon": "~2.0.4",
     "npm-check-updates": "~7.0.2",
